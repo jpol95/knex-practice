@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles(title, content, date_published)
+VALUES
+('Jesse1', 'HELLO', now() -'1 day'::INTERVAL), 
+('Jesse2', 'HELLO', now() -'2 days'::INTERVAL),
+('Jesse3', 'HELLO', now() -'3 days'::INTERVAL),
+('Jesse4', 'HELLO', now() -'4 days'::INTERVAL),
+('Jesse5', 'HELLO', now() -'5 days'::INTERVAL),
+('Jesse6', 'HELLO', now() -'6 days'::INTERVAL),
+('Jesse7', 'HELLO', now() -'7 days'::INTERVAL),
+('Jesse8', 'HELLO', now() -'8 days'::INTERVAL),
+('Jesse9', 'HELLO', now() -'9 days'::INTERVAL),
+('Jesse10', 'HELLO', now() -'10 days'::INTERVAL),
+('Jesse11', 'HELLO', now() -'11 days'::INTERVAL),
+('Jesse12', 'HELLO', now() -'12 days'::INTERVAL),
+('Jesse13', 'HELLO', now() -'13 days'::INTERVAL),
+('Jesse14', 'HELLO', now() -'14 days'::INTERVAL),
+('Jesse15', 'HELLO', now() -'15 days'::INTERVAL),
+('Jesse16', 'HELLO', now() -'16 days'::INTERVAL),
+('Jesse17', 'HELLO', now() -'17 days'::INTERVAL),
+('Jesse178', 'HELLO', now() -'81 days'::INTERVAL),
+('Jesse19', 'HELLO', now() -'197 days'::INTERVAL),
+('Jesse189', 'HELLO', now() -'19 days'::INTERVAL);
